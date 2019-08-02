@@ -37,7 +37,7 @@ d$hatY1 <- predict(model13, newdata=data.frame(age1 = d$age1) )
 
 
 
-## Specification of LCS-SEM for recovering THE MEAN TRAJECTORY ------------------
+## Specification of LCS-SEM for recovering THE COVARIANCE STRUCTURE ------------------
 # Specification of models
 oneStepModelMG = "
 # Declaring latent level

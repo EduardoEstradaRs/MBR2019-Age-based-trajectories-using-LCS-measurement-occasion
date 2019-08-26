@@ -1,9 +1,10 @@
 # R code for the statistical models used in:
 
-# Estrada, Hamagami, & Ferrer (2019, in press).
+# Estrada, Hamagami, & Ferrer (2019).
 # Estimating age-based developmental trajectories using latent change score models
 # based on measurement occasion.
-# Multivariate Behavioral ReseachPsychological Methods.
+# Multivariate Behavioral Reseach.
+# https://doi.org/10.1080/00273171.2019.1647822
 
 ## RECOVERING THE AGE-BASED VARIANCE-COVARIANCE STRUCTURE
 

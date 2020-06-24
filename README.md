@@ -1,5 +1,5 @@
 # Estimating age-based developmental trajectories using latent change score models based on measurement occasion
-Code for the statistical models used in:
+Code for the statistical analysis in:
 
 Estrada, E., Hamagami, F., & Ferrer, E. (2020).
 Estimating Age-Based Developmental Trajectories Using Latent Change Score Models Based on Measurement Occasion.
